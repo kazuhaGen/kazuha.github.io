@@ -2,45 +2,45 @@
     "version": "https://jsonfeed.org/version/1",
     "title": null,
     "subtitle": null,
-    "icon": "http://example.com/images/favicon.ico",
+    "icon": "http://www.folklore.fun/images/favicon.ico",
     "description": "总之就是十分草率",
-    "home_page_url": "http://example.com",
+    "home_page_url": "http://www.folklore.fun",
     "items": [
         {
-            "id": "http://example.com/other/demo/",
-            "url": "http://example.com/other/demo/",
+            "id": "http://www.folklore.fun/other/demo/",
+            "url": "http://www.folklore.fun/other/demo/",
             "title": "第一个其他类型测试",
             "date_published": "2025-04-22T15:40:00.326Z",
             "content_html": "<p>最后，也只是一个 demo 而已</p>\n",
             "tags": []
         },
         {
-            "id": "http://example.com/note/demo/",
-            "url": "http://example.com/note/demo/",
+            "id": "http://www.folklore.fun/note/demo/",
+            "url": "http://www.folklore.fun/note/demo/",
             "title": "第一个笔记测试",
             "date_published": "2025-04-22T15:39:41.947Z",
             "content_html": "<p>没错，这仍然只是一个 demo 而已</p>\n",
             "tags": []
         },
         {
-            "id": "http://example.com/doc/demo/",
-            "url": "http://example.com/doc/demo/",
+            "id": "http://www.folklore.fun/doc/demo/",
+            "url": "http://www.folklore.fun/doc/demo/",
             "title": "第一个文档测试",
             "date_published": "2025-04-22T15:39:22.863Z",
             "content_html": "<p>没错，这又仅仅只是一个 demo 而已</p>\n",
             "tags": []
         },
         {
-            "id": "http://example.com/course/demo/",
-            "url": "http://example.com/course/demo/",
+            "id": "http://www.folklore.fun/course/demo/",
+            "url": "http://www.folklore.fun/course/demo/",
             "title": "第一个教程测试",
             "date_published": "2025-04-22T15:38:28.180Z",
             "content_html": "<p>没错，这仅仅只是一个 demo 而已</p>\n",
             "tags": []
         },
         {
-            "id": "http://example.com/hello-world/",
-            "url": "http://example.com/hello-world/",
+            "id": "http://www.folklore.fun/hello-world/",
+            "url": "http://www.folklore.fun/hello-world/",
             "title": "Hello World",
             "date_published": "2025-04-22T11:23:00.501Z",
             "content_html": "<p>Welcome to <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvLw==\">Hexo</span>! This is your very first post. Check <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv\">documentation</span> for more info. If you get any problems when using Hexo, you can find the answer in <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=\">troubleshooting</span> or you can ask me on <span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==\">GitHub</span>.</p>\n<h2 id=\"quick-start\"><a class=\"anchor\" href=\"#quick-start\">#</a> Quick Start</h2>\n<h3 id=\"create-a-new-post\"><a class=\"anchor\" href=\"#create-a-new-post\">#</a> Create a new post</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo new <span class=\"string\">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s\">Writing</span></p>\n<h3 id=\"run-server\"><a class=\"anchor\" href=\"#run-server\">#</a> Run server</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo server</span><br></pre></td></tr></table></figure>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=\">Server</span></p>\n<h3 id=\"generate-static-files\"><a class=\"anchor\" href=\"#generate-static-files\">#</a> Generate static files</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo generate</span><br></pre></td></tr></table></figure>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s\">Generating</span></p>\n<h3 id=\"deploy-to-remote-sites\"><a class=\"anchor\" href=\"#deploy-to-remote-sites\">#</a> Deploy to remote sites</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo deploy</span><br></pre></td></tr></table></figure>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s\">Deployment</span></p>\n",

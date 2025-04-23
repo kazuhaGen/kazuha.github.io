@@ -3,8 +3,8 @@
     <channel>
         <title></title>
         <subtitle></subtitle>
-        <icon>http://example.com/images/favicon.ico</icon>
-        <link>http://example.com</link>
+        <icon>http://www.folklore.fun/images/favicon.ico</icon>
+        <link>http://www.folklore.fun</link>
         <author>
           <name>kazuha</name>
         </author>
@@ -14,41 +14,41 @@
         <lastBuildDate>Tue, 22 Apr 2025 23:40:00 +0800</lastBuildDate>
         <category term="博客，笔记" />
         <item>
-            <guid isPermalink="true">http://example.com/other/demo/</guid>
+            <guid isPermalink="true">http://www.folklore.fun/other/demo/</guid>
             <title>第一个其他类型测试</title>
-            <link>http://example.com/other/demo/</link>
+            <link>http://www.folklore.fun/other/demo/</link>
             <pubDate>Tue, 22 Apr 2025 23:40:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;最后，也只是一个 demo 而已&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/note/demo/</guid>
+            <guid isPermalink="true">http://www.folklore.fun/note/demo/</guid>
             <title>第一个笔记测试</title>
-            <link>http://example.com/note/demo/</link>
+            <link>http://www.folklore.fun/note/demo/</link>
             <pubDate>Tue, 22 Apr 2025 23:39:41 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;没错，这仍然只是一个 demo 而已&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/doc/demo/</guid>
+            <guid isPermalink="true">http://www.folklore.fun/doc/demo/</guid>
             <title>第一个文档测试</title>
-            <link>http://example.com/doc/demo/</link>
+            <link>http://www.folklore.fun/doc/demo/</link>
             <pubDate>Tue, 22 Apr 2025 23:39:22 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;没错，这又仅仅只是一个 demo 而已&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/course/demo/</guid>
+            <guid isPermalink="true">http://www.folklore.fun/course/demo/</guid>
             <title>第一个教程测试</title>
-            <link>http://example.com/course/demo/</link>
+            <link>http://www.folklore.fun/course/demo/</link>
             <pubDate>Tue, 22 Apr 2025 23:38:28 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;没错，这仅仅只是一个 demo 而已&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/hello-world/</guid>
+            <guid isPermalink="true">http://www.folklore.fun/hello-world/</guid>
             <title>Hello World</title>
-            <link>http://example.com/hello-world/</link>
+            <link>http://www.folklore.fun/hello-world/</link>
             <pubDate>Tue, 22 Apr 2025 19:23:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
