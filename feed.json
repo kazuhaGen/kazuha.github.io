@@ -7,11 +7,11 @@
     "home_page_url": "http://www.folklore.fun",
     "items": [
         {
-            "id": "http://www.folklore.fun/about/",
-            "url": "http://www.folklore.fun/about/",
+            "id": "http://www.folklore.fun/about/about/",
+            "url": "http://www.folklore.fun/about/about/",
             "title": "",
             "date_published": "2025-04-23T02:20:47.478Z",
-            "content_html": "<h1 id=\"我也不知道说什么\"><a class=\"anchor\" href=\"#我也不知道说什么\">#</a> 我也不知道说什么</h1>\n",
+            "content_html": "<p>just 4 fun</p>\n",
             "tags": []
         },
         {
