@@ -8,8 +8,16 @@
     <author>
       <name>kazuha</name>
     </author>
-    <updated>2025-04-22T15:40:00.326Z</updated>
+    <updated>2025-04-23T02:20:47.478Z</updated>
     <category term="博客，笔记" />
+    <entry>
+        <id>http://www.folklore.fun/about/</id>
+        <title></title>
+        <link rel="alternate" href="http://www.folklore.fun/about/"/>
+        <content type="html">&lt;h1 id=&#34;我也不知道说什么&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#我也不知道说什么&#34;&gt;#&lt;/a&gt; 我也不知道说什么&lt;/h1&gt;
+</content>
+        <updated>2025-04-23T02:20:47.478Z</updated>
+    </entry>
     <entry>
         <id>http://www.folklore.fun/other/demo/</id>
         <title>第一个其他类型测试</title>
