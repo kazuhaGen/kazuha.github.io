@@ -1,7 +1,7 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": null,
-    "subtitle": "",
+    "subtitle": null,
     "icon": "http://example.com/images/favicon.ico",
     "description": "总之就是十分草率",
     "home_page_url": "http://example.com",
