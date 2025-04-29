@@ -32,14 +32,6 @@
         <updated>2025-04-23T03:14:39.000Z</updated>
     </entry>
     <entry>
-        <id>http://www.folklore.fun/about/</id>
-        <title>Just 4 You</title>
-        <link rel="alternate" href="http://www.folklore.fun/about/"/>
-        <content type="html">&lt;p&gt;just 4 fun&lt;/p&gt;
-</content>
-        <updated>2025-04-23T02:20:47.478Z</updated>
-    </entry>
-    <entry>
         <id>http://www.folklore.fun/other/demo/</id>
         <title>第一个其他类型测试</title>
         <link rel="alternate" href="http://www.folklore.fun/other/demo/"/>
